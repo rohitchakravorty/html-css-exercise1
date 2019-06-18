@@ -1,0 +1,10 @@
+body{
+	padding-left:35%;
+	padding-right: 30%;
+	background-color: lightgray;
+}
+div{
+	padding: 20px;
+	text-align: center;
+	border:white solid 1px;
+}
